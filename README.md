@@ -1,2 +1,2 @@
 # Education
-Keep tracking on the courses I'm taking online
+Keep tracking on some projects and online courses.
